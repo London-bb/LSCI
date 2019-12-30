@@ -1,5 +1,6 @@
 # LSCI(Laser speckle image system)
-During my school years, I conducted a study on the subject "Development of Laser Speckle Image Projection System for Early Diagnosing Thissue necrosis."
+During my school years, I conducted a study on the subject 
+#### "Development of Laser Speckle Image Projection System for Early Diagnosing Thissue necrosis."
 Research suggests that this technology could be used to determine vascular diseases such as arteriosclerosis through microvascular verification. Alternatively, it may be used to determine the extent of the burn victims.
 The code is re-opened in the hope that it will be of any reference to students or interested people who conduct research using laser speckle. but if you want to use part of the code, please refer to the license.
 Copyright : Lee Seung Hoon (Leo b.b)
