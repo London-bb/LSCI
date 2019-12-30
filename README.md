@@ -3,7 +3,7 @@ During my school years, I conducted a study on the subject
 #### "Development of Laser Speckle Image Projection System for Early Diagnosing Thissue necrosis."
 Research suggests that this technology could be used to determine vascular diseases such as arteriosclerosis through microvascular verification. Alternatively, it may be used to determine the extent of the burn victims.
 The code is re-opened in the hope that it will be of any reference to students or interested people who conduct research using laser speckle. but if you want to use part of the code, please refer to the license.
-Copyright : Lee Seung Hoon (Leo b.b)
+#### Copyright : Lee Seung Hoon (Leo b.b)
 
 <img src="https://user-images.githubusercontent.com/58500111/71573132-a3cb1080-2b25-11ea-91ab-4bf5964e7765.png" width="360">
 
